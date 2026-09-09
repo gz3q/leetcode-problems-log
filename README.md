@@ -17,4 +17,4 @@ Solutions are stored under `/solutions/`, one file per problem, named `solutions
 | Easy | 1 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total** | **0** |
+| **Total** | **1** |
