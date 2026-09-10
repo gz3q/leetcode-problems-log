@@ -8,7 +8,7 @@ Solutions are stored under `/solutions/`, one file per problem, named `solutions
 
 | Date | Time | Problem | Difficulty | Solution |
 |---|---|---|---|---|
-| 2026-09-09 | 21:00 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](solutions/2026-09-09-two-sum.md) |
+| 2026-09-09 | 22:43 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](solutions/2026-09-09-two-sum.md) |
 
 ## Summary
 
